@@ -86,6 +86,7 @@ def make_tarreg_loss(ratio=1., dragonnet_loss=dragonnet_loss_binarycross):
         y1_pred = concat_pred[:, 1]
         t_pred = concat_pred[:, 2]
 
+        # epsilons对y_pred 起校正作用
         epsilons = concat_pred[:, 3]
         t_pred = (t_pred + 0.01) / 1.02
         # t_pred = tf.clip_by_value(t_pred,0.01, 0.99,name='t_pred')
