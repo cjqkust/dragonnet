@@ -1,6 +1,10 @@
-知乎
+# 论文解读（知乎）
+
+因果推断笔记 | Dragonnet
 
 https://zhuanlan.zhihu.com/p/595584232
+
+从零开始的因果推断（二）｜Tarnet&CFRnet&DragonNet｜附代码
 
 https://zhuanlan.zhihu.com/p/1948717948870047573
 
