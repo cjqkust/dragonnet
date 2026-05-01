@@ -55,7 +55,7 @@ def track_epsilon(concat_true, concat_pred):
     epsilons = concat_pred[:, 3]
     return tf.abs(tf.reduce_mean(epsilons))
 
-
+# 这是一个自定义的 Keras 层，用于生成与输入形状匹配的、由可训练参数 epsilon 填充的张量。这样在模型中可以学到 epsilon 这个参数，广泛用于添加噪声、偏置或实现自定义正则化。
 class EpsilonLayer(Layer):
 
     def __init__(self):
