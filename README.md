@@ -1,3 +1,10 @@
+知乎
+
+https://zhuanlan.zhihu.com/p/595584232
+
+https://zhuanlan.zhihu.com/p/1948717948870047573
+
+
 # Introduction
 
 This repository contains software and data for "[Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/pdf/1906.02120.pdf)".
