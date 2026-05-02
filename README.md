@@ -8,6 +8,10 @@ https://zhuanlan.zhihu.com/p/595584232
 
 https://zhuanlan.zhihu.com/p/1948717948870047573
 
+闲聊因果效应（7）：深度uplift模型篇
+
+https://zhuanlan.zhihu.com/p/627344224
+
 
 # Introduction
 
